@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-wp/static/css/main.bf94a6bd.chunk.css",
+    "main.js": "/react-wp/static/js/main.6fe3cf0b.chunk.js",
+    "main.js.map": "/react-wp/static/js/main.6fe3cf0b.chunk.js.map",
+    "runtime-main.js": "/react-wp/static/js/runtime-main.178cfbac.js",
+    "runtime-main.js.map": "/react-wp/static/js/runtime-main.178cfbac.js.map",
+    "static/css/2.de424728.chunk.css": "/react-wp/static/css/2.de424728.chunk.css",
+    "static/js/2.506d9b10.chunk.js": "/react-wp/static/js/2.506d9b10.chunk.js",
+    "static/js/2.506d9b10.chunk.js.map": "/react-wp/static/js/2.506d9b10.chunk.js.map",
+    "index.html": "/react-wp/index.html",
+    "precache-manifest.a7da2c8dc266e80a3ad2c798149b5f7a.js": "/react-wp/precache-manifest.a7da2c8dc266e80a3ad2c798149b5f7a.js",
+    "service-worker.js": "/react-wp/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/react-wp/static/css/2.de424728.chunk.css.map",
+    "static/css/main.bf94a6bd.chunk.css.map": "/react-wp/static/css/main.bf94a6bd.chunk.css.map",
+    "static/js/2.506d9b10.chunk.js.LICENSE.txt": "/react-wp/static/js/2.506d9b10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.178cfbac.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.506d9b10.chunk.js",
+    "static/css/main.bf94a6bd.chunk.css",
+    "static/js/main.6fe3cf0b.chunk.js"
+  ]
+}
